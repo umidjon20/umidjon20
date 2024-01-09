@@ -1,4 +1,4 @@
-### Hi there, I'm Umidjon Amirkhulov👋
+### Hi there, I'm Umidjon Amirqulov👋
 
 <!--
 **umidjon20/umidjon20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
